@@ -1,0 +1,23 @@
+[
+  {
+    "MatchDate": "2024-03-22",
+    "Team1": "Mumbai ***",
+    "Team2": "Chennai ***",
+    "Winner": "Mumbai ***",
+    "PlayerOfMatch": "REDACTED"
+  },
+  {
+    "MatchDate": "2024-03-24",
+    "Team1": "Royal ***",
+    "Team2": "Kolkata ***",
+    "Winner": "Kolkata ***",
+    "PlayerOfMatch": "REDACTED"
+  },
+  {
+    "MatchDate": "2024-03-26",
+    "Team1": "Delhi ***",
+    "Team2": "Rajasthan ***",
+    "Winner": "Rajasthan ***",
+    "PlayerOfMatch": "REDACTED"
+  }
+]
