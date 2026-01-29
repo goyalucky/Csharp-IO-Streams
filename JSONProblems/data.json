@@ -1,0 +1,9 @@
+{
+  "name": "Lucky",
+  "age": 21,
+  "skills": ["C#", "Java", "React"],
+  "address": {
+    "city": "Mathura",
+    "state": "UP"
+  }
+}
